@@ -1,1 +1,1 @@
-{"förnamn":"d","efternamn":"d","telefonnummer":"07","medelande":"d"}
+{"förnamn":"d","efternamn":"d","telefonnummer":"07","medelande":"hej"}
